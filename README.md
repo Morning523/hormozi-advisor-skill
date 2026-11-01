@@ -74,8 +74,4 @@ npx skills add Morning523/hormozi-advisor-skill
 - Alex Hormozi 的原創內容、名稱與商標不屬作者，不在上述授權範圍內，詳見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 - 建議署名：`AI 顧問：Hormozi（非官方）by Meng-Lin (Leo) Tsai · CC BY 4.0`
 
-## 作者
 
-Meng-Lin (Leo) Tsai — MSc Business Analytics, Warwick Business School。
-
-此作品原始發表於 2026-09-28，當時使用筆名「RS0715」；本 fork 僅將署名改回作者本名，知識庫整理、顧問設定與測試結果均未更動。
