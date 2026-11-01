@@ -2,6 +2,8 @@
 
 把 Alex Hormozi 官方 YouTube 頻道 518 部公開影片（約 218 小時）整理成一位說得出出處的 AI 商業顧問，專看增長經濟、Offer、瓶頸（constraint）和單位經濟（unit economics）。
 
+> 本 fork 把原始發表時使用的筆名署名改回作者本名，內容、顧問設定與測試結果與原版一致。原始版本見 [RS01985/hormozi-advisor-skill](https://github.com/RS01985/hormozi-advisor-skill)。
+
 > ⚠️ 本作品不是 Alex Hormozi 本人，也不是他或 Acquisition.com 的官方產品，與他沒有任何關係。它是作者根據他在 YouTube 公開分享的方法論整理的決策工具；510 份字幕逐字稿（另有 8 部官方無字幕）與 518 份逐片筆記只供作者自用，不在本 repo 公開。
 
 ## 它會做什麼
@@ -32,7 +34,7 @@
 ## 安裝
 
 ```bash
-npx skills add RS01985/hormozi-advisor-skill
+npx skills add Morning523/hormozi-advisor-skill
 ```
 
 也可以手動：把整個資料夾放進你所用 Agent 的 skills 目錄。
@@ -70,8 +72,10 @@ npx skills add RS01985/hormozi-advisor-skill
 
 - 作者撰寫的整理、顧問設定與測試題以 [CC BY 4.0](LICENSE) 授權：可以自由 fork、修改、翻譯（例如轉成台灣用語）、再分享；條件是註明原作者、附上本 repo 連結與 CC BY 4.0 授權連結，並標明你改過什麼。
 - Alex Hormozi 的原創內容、名稱與商標不屬作者，不在上述授權範圍內，詳見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
-- 建議署名：`AI 顧問：Hormozi（非官方）by RS0715 · Whale Digital Consulting（whaledigitalconsulting.com.au）· CC BY 4.0`
+- 建議署名：`AI 顧問：Hormozi（非官方）by Meng-Lin (Leo) Tsai · CC BY 4.0`
 
 ## 作者
 
-RS0715，在海外生活的香港人，正在建立服務中小企業的 AI 顧問一人公司。[Whale Digital Consulting](https://whaledigitalconsulting.com.au/)。
+Meng-Lin (Leo) Tsai — MSc Business Analytics, Warwick Business School。
+
+此作品原始發表於 2026-09-28，當時使用筆名「RS0715」；本 fork 僅將署名改回作者本名，知識庫整理、顧問設定與測試結果均未更動。
